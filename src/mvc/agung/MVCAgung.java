@@ -32,6 +32,7 @@ public class MVCAgung {
         displayFrame.start();
         propertiesDialog.start();
         //sdfsdf
+        //gfg
     }
     
 }
