@@ -31,6 +31,7 @@ public class MVCAgung {
         defaultController.addModel(textElementModel);
         displayFrame.start();
         propertiesDialog.start();
+        //sdfsdf
     }
     
 }
